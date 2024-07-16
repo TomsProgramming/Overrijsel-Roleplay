@@ -1,0 +1,241 @@
+# Wetboek van Strafrecht
+## Overijssel Roleplay
+### Korpsleiding Overijssel
+
+#### Rechten van een verdachte:
+- Persoon heeft recht op rechtsbijstand (advocaat)
+- Persoon heeft recht op medische hulp
+- Persoon heeft recht op een tolk
+- Persoon heeft recht om te zwijgen
+- Persoon heeft recht op brood en water tijdens zijn/haar verblijf
+- Persoon heeft recht op een transport indien hij/zij een straf opgelegd krijgt van 30 maanden of meer
+
+**MAXIMUM STRAF: 120 maanden**
+
+---
+
+## Wetboek van Strafrecht (artikelen)
+
+### Verkeersovertredingen
+
+- Doorgetrokken streep negeren
+  - **Boete:** €440,-
+- Veroorzaken verkeershinder
+  - **Boete:** €220,-
+- Veroorzaken verkeersongeval licht letsel
+  - **Boete:** €240,-
+- Onnodig claxonneren
+  - **Boete:** €220,-
+- Onnodig reven
+  - **Boete:** €200,-
+- Geen rijbewijs
+  - **Boete:** €1200,-
+- Geen geldig rijbewijs
+  - **Boete:** €1200,-
+- Het niet tonen van je ID of rijbewijs
+  - **Boete:** €800,-
+- Bumper kleven
+  - **Boete:** €400,-
+- Rechts inhalen
+  - **Boete:** €285,-
+- Onnodig links blijven rijden
+  - **Boete:** €250,-
+- Fout parkeren
+  - **Boete:** €400,-
+- Geen geldige apk
+  - **Boete:** €580,-
+- Te donkere ramen
+  - **Boete:** €2460,-
+- Geen apk waardig voertuig
+  - **Boete:** €580,-
+- Geen beschermende kleding op motor
+  - **Boete:** €200,-
+- Geen helm op
+  - **Boete:** €250,-
+- Rijden terwijl rijbewijs is ingevorderd/ingenomen
+  - **Boete:** €1200,-
+- Verboden te keren
+  - **Boete:** €220,-
+- Stilstaan op rijbaan
+  - **Boete:** €310,-
+- Spookrijden
+  - **Boete:** €1300,-
+- Geen kenteken op voertuig
+  - **Boete:** €5980,-
+- Door rijden na een ongeval
+  - **Boete:** €6000,-
+- Niet meewerken van drugs of ademtest
+  - **Boete:** €600,-
+- Door rijden van een afzetting
+  - **Boete:** €2200,-
+- Geen voorrang verlenen
+  - **Boete:** €700,-
+- 10 kilometer te hard
+  - **Boete:** €120,-
+- 10/20 kilometer te hard
+  - **Boete:** €240,-
+- 20/30 kilometer te hard
+  - **Boete:** €360,-
+- 30/40 kilometer te hard
+  - **Boete:** €480,-
+- 40/50 kilometer te hard
+  - **Boete:** €805,-
+- 50+ kilometer te hard
+  - **Boete:** €1500,-
+- Beledigen ambtenaar in functie
+  - **Boete:** €640,-
+- Dragen van gezichtsbedekkende kleding
+  - **Boete:** €600,-
+- Negeren van het ambtelijk bevel
+  - **Boete:** €230,-
+- Openbare dronkenschap
+  - **Boete:** €110,-
+- Valse melding
+  - **Boete:** €400,-
+- Wanordelijk gedrag
+  - **Boete:** €350,-
+- Minder dan 0,5 kilo heroïne of cocaïne
+  - **Boete:** €2500,-
+- Softdrugs gebruiken waar niet toegestaan is
+  - **Boete:** €350,-
+- Op openbare plek harddrugs gebruiken
+  - **Boete:** €500,-
+- Niet opvolgen van een bevel van de politie
+  - **Boete:** €230,-
+- Valse identiteit opgeven
+  - **Boete:** €300,-
+- Inbraak gereedschap op zak hebben
+  - **Boete:** €150,-
+- Verstoren van openbare orde
+  - **Boete:** €220,-
+- Betreden van verboden terrein
+  - **Boete:** €120,-
+- Overval op een burger
+  - **Cel:** 10 maanden
+- Mishandeling van een burger
+  - **Cel:** 15 maanden
+- Mishandeling van ambtenaar in functie
+  - **Cel:** 20 maanden
+- Door rood rijden
+  - **Boete:** €560,-
+- Niet stoppen bij stopteken
+  - **Boete:** €1900,-
+- Niet opvolgen van aanwijzing verkeersregelaar
+  - **Boete:** €300,-
+- Tijdens het rijden op je mobiel bellen
+  - **Boete:** €450,-
+- Rijden zonder verlichting
+  - **Boete:** €325,-
+- Rijden met kapotte verlichting
+  - **Boete:** €325,-
+- Rijden onder invloed drank/drugs
+  - **Cel:** 5 maanden
+- Illegaal off-road rijden
+  - **Boete:** €365,-
+- Rijden met een actieve WOK-status
+  - **Boete:** €580,-
+- Rijden met neon verlichting
+  - **Boete:** €1500,-
+- Roekeloos rijgedrag
+  - **Boete:** €1950,-
+- U-turn maken
+  - **Boete:** €220,-
+- Veroorzaken verkeersongeval zwaar letsel
+  - **Cel:** 10 maanden
+- Artikel 5 WVW
+  - **Cel:** 10 maanden
+- Diefstal goederen
+  - **Cel:** 10 maanden
+- T/m 5 kilo softdrugs
+  - **Cel:** 5 maanden
+- Doorrijden na ongeval
+  - **Cel:** 10 maanden
+- Diefstal voertuig
+  - **Cel:** 15 maanden
+- Poging tot moord/doodslag burger
+  - **Cel:** 15 maanden
+- Veroorzaken dodelijk verkeersongeval
+  - **Cel:** 20 maanden
+- Huisinbraak/huisvredebreuk
+  - **Cel:** 20 maanden
+- Handelen in softdrugs
+  - **Cel:** 20 maanden
+- Poging tot moord/doodslag ambtenaar in functie
+  - **Cel:** 20 maanden
+- Meer dan 5 kilo en minder dan 30 kilo softdrugs
+  - **Cel:** 15 maanden
+- Het dealen in soft/harddrugs
+  - **Cel:** 25 maanden
+- Meer dan 5 kilo en minder dan 30 kilo harddrugs
+  - **Cel:** 30 maanden
+- Meer dan 30 kilo softdrugs
+  - **Cel:** 20 maanden
+- Handelen in harddrugs
+  - **Cel:** 30 maanden
+- Het vluchten voor politie
+  - **Cel:** 10 maanden
+- Het ontvoeren van een burger
+  - **Cel:** 30 maanden
+- Het ontvoeren van een ambtenaar in functie
+  - **Cel:** 35 maanden
+- Meer dan 30 kilogram harddrugs
+  - **Cel:** 40 maanden
+- Het dragen van een categorie 1 wapen
+  - **Cel:** 30 maanden
+- Winkel overval met wapen
+  - **Cel:** 30 maanden
+- Medeplichtig winkel overval
+  - **Cel:** 20 maanden
+- Inbraak gevangenis
+  - **Cel:** 45 maanden
+- Kleine bank overval met wapen
+  - **Cel:** 45 maanden
+- Medeplichtig kleine bankoverval
+  - **Cel:** 35 maanden
+- Medeplichtig uitbraak onsuccesvol
+  - **Cel:** 30 maanden
+- Het dragen van een categorie 2 wapen
+  - **Cel:** 40 maanden
+- Het vermoorden van een burger
+  - **Cel:** 30 maanden
+- Het gijzelen van meerdere burgers
+  - **Cel:** 50 maanden
+- Het vermoorden van een ambtenaar in functie
+  - **Cel:** 40 maanden
+- Grote bank overval met vuurwapen
+  - **Cel:** 65 maanden
+- Medeplichtig grote bank overval
+  - **Cel:** 55 maanden
+- Het dragen van een categorie 3 wapen
+  - **Cel:** 60 maanden
+- Succesvolle uitbraak
+  - **Cel:** 50 maanden
+- Het plegen van een terroristische daad
+  - **Cel:** 100 maanden
+- Medeplichtig zijn van een terroristische daad
+  - **Cel:** 90 maanden
+- Over vluchtstrook inhalen
+  - **Boete:** €285,-
+- Medeplichtig uitbraak succesvol
+  - **Cel:** 40 maanden
+- Verkrachting
+  - **Cel:** 15 maanden
+
+---
+
+## Strafvermindering per veroordeling:
+
+- Veroordeling 1: -15 maanden
+- Veroordeling 2: -10 maanden
+- Veroordeling 3: -5 maanden
+- Vanaf veroordeling 4: Geen strafvermindering
+
+- Geen rechten voorgelezen/gordel vergeten om te doen: -10 maanden
+
+- Bij medeplichtigheid aan strafbaar feit voer je de straf uit -5 maanden
+
+- Bij zichzelf aangeven: -10 maanden
+
+- Bij boete dien je het boete bedrag te vermenigvuldigen met 0,002 (dat is de straf die erbij komt in maanden)
+
+- Bij zwart geld bedrag vermenigvuldigen met 0,0002 (dat is de straf die erbij komt in maanden)
